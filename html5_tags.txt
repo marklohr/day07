@@ -1,0 +1,8 @@
+• <img> represents an image
+• <head> represents a collection of metadata about the document, incl links to, or definitions of, scripts and style sheets (i.e., css)
+• <link> used to link JavaScript and external CSS with the current HTML doc
+• <body> represents the content of an HTML doc.. There is only one <body> element in a document
+• <p> defines a portion that should be displayed as a paragraph
+• <ol> defines an ordered list of items
+• <ul> defines an unordered list of items
+• <li> defines a item of enumeration list
